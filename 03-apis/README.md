@@ -75,3 +75,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [title](url)
 - David Leyva - [Once Upon a GIF](https://wp.nyu.edu/davidaleyva/week-3-homework/)
+- Nick Parisi - [Who's That Pokemon Part 1](https://wp.nyu.edu/spacethewhale/whos-that-pokemon-api-part-1/)
